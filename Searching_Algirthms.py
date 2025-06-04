@@ -14,4 +14,4 @@ def binary_search(num_list,item):
     return -1
 
 lst = [1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,19,22,23,34,45,56,67,78]
-binary_search[lst,23]
+binary_search(lst,23)
